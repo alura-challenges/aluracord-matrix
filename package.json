@@ -1,0 +1,28 @@
+{
+  "name": "aluracord-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcruzg3/aluracord-matrix.git"
+  },
+  "author": "gabrielcruzg3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcruzg3/aluracord-matrix/issues"
+  },
+  "homepage": "https://github.com/gabrielcruzg3/aluracord-matrix#readme",
+  "dependencies": {
+    "@skynexui/components": "^1.23.2",
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
