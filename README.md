@@ -18,8 +18,8 @@ Seja bem vindo ao projeto base do Aluracord!!! Passos fundamentais:
 
 # Contribuidores 
 
-| Pessoa que criou o projeto | Projeto |
-| --- | --- |
+| Pessoa que criou o projeto | 
+| --- |
 | <!-- CHANNEL_PROJECTS:START -->
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/alura-challenges/aluracord-matrix'/>](https://github.com/alura-challenges/aluracord-matrix) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/alura-challenges/aluracord-matrix&v=2'/>](https://github.com/alura-challenges/aluracord-matrix)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/developer-fernanda/aluracord-matrix'/>](https://aluracord-matrix-bice.vercel.app/) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://aluracord-matrix-bice.vercel.app/&v=2'/>](https://aluracord-matrix-bice.vercel.app/)
