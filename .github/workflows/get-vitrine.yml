@@ -18,4 +18,4 @@ jobs:
         comment_tag_name: CHANNEL_PROJECTS
         max_post_count: 100000
         feed_list: "https://github-feed-generator-theta.vercel.app/api/topic/aluracord/?v=10"
-        template: "$newline| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/$title'/>]($url) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=$url&v=2'/>]($url)"
+        template: "$newline| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/$title'/>]($url)"
